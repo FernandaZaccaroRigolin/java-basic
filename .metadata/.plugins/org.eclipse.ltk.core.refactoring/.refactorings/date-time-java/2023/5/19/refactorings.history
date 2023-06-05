@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 4 elements to &apos;date-time-java/src/application&apos;&#x0D;&#x0A;- Original project: &apos;date-time-java&apos;&#x0D;&#x0A;- Destination element: &apos;date-time-java/src/application&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Program1.java&#x0D;&#x0A;     Program4.java&#x0D;&#x0A;     Program3.java&#x0D;&#x0A;     Program2.java&#x0D;&#x0A;- Update references to refactored element" description="Move files" destination="/src&lt;application" element1="Program1.java" element2="Program4.java" element3="Program3.java" element4="Program2.java" files="4" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1683645556452" units="0" version="1.0"/>
+</session>
